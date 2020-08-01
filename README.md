@@ -1,20 +1,15 @@
 ### Hi there 👋
 
+My name is Pavel Luhin, and I am Software Engineer from Minsk.
+
 ![pavel-luhin's github stats](https://github-readme-stats.vercel.app/api?username=pavel-luhin&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-luhin&layout=compact)
 
-<!--
-**pavel-luhin/pavel-luhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can see my several projects, such as:
+`rfe-sms-server`, which is sms sever that was build for internal purposes for my university;
+`acts-reconciliation`, which is simple web application, the main idea of which is to compare two different acts in xls format and return rows that has no pair in second act;
+- 🔭 I’m currently working on my repost-bot application, which should do schedule application repost from different sources to Telegram.
+Feel free to contact me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun facts: I have a cat Luna, I like spicy food and I am falling in love with skating.
