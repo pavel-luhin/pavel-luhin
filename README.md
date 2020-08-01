@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![pavel-luhin's github stats](https://github-readme-stats.vercel.app/api?username=pavel-luhin&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-luhin&layout=compact)
+
 <!--
 **pavel-luhin/pavel-luhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
